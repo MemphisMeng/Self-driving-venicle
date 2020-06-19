@@ -90,5 +90,6 @@ When I got a larger dataset, I did the following things to remove irrelevant inf
 </tr>
 </tbody>
 </table><h2 id="results">Results</h2>
-<p><img src="https://github.com/MemphisMeng/Self-driving-venicle/blob/master/images/lines.png" alt="enter image description here"></p>
+<p>I managed to reduce the losses to around 0.10, which is accpetable.<br>
+<img src="https://github.com/MemphisMeng/Self-driving-venicle/blob/master/images/lines.png" alt="enter image description here"></p>
 
